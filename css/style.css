@@ -23,6 +23,11 @@ ul {
 a {
   text-decoration: none !important;
 }
+
+.col-sm-6 span {
+display: block;
+font-size: 2rem;
+}
 /*#bg {
   position: fixed; 
   top: 0; 
